@@ -1,0 +1,13 @@
+table{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+}
+td,th{
+    border: 1px solid #dddddd;
+    text-align: center;
+}
+div.Cities{
+    background-color: blueviolet;
+    color: cornsilk;
+}
